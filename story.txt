@@ -15,3 +15,4 @@ from his bed, he checks the clock and sees 11:41 P.M., his github assignment is 
 
 His intuition as a student made him double check his submission, while he found out that his computer has never connected to Internet. He has been working for several days after submission, trying to figure out how to connect to Canvas. His ISP hasn't replied to him until now, and he was too overwhelmed to be dreaming about his queen and wifi password. As he was giving up about this assignment, Sree discovered that there was a unfamiliar wifi named harrietParker. For the following 10 minutes, Sree tried his best to guess the password but none of his attempts succeeded. It was the time while Sree was exhaused when he made his final attempt "Eeeeew" and successfully accessed to Internet. He only had 5 minutes left.
 
+luckily for him it all worked out just fine.
